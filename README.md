@@ -15,6 +15,6 @@
 
 ### Enabling CC Errors 
 - By default, the simulation runs without CC errors.
-- To simulate correlated coherent errors, make the following changes in the code:
+- To simulate CC errors, make the following changes in the code:
     - Uncomment lines 233–234
     - Comment out lines 235–236
